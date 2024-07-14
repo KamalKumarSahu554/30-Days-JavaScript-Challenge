@@ -1,3 +1,5 @@
+// # Day1 - Variables and Data Types
+
 // Activity 1: VAriable Declaration
 var num = 7;
 console.log(num);
