@@ -1,3 +1,5 @@
+# Hello
+
 # 30 Days JavaScript Challenge
 
 ## Day 1: Variable and Data Types
