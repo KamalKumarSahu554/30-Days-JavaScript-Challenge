@@ -1,5 +1,4 @@
 # 30 Days JavaScript Challenge
-## My name is Kamal Kumar Sahu
 
 ## Day 1: Variable and Data Types
 
