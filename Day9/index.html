@@ -5,20 +5,46 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>DOM Manupulation</title>
   </head>
+
+  <style>
+    .aqua {
+      border: 2px solid black;
+      height: 30px;
+      width: 100px;
+      background-color: aqua;
+    }
+    .blue {
+      color: blue;
+    }
+    .red {
+      color: red;
+    }
+  </style>
   <body>
-    <h1 id="head">Hello World!</h1>
-    <p class="para">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam
-      doloribus laudantium nam corrupti accusamus aperiam facere repudiandae,
-      velit quae numquam.
-    </p>
-    <p class="para p2">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quae.
-    </p>
+    <h1 id="head">DOM</h1>
+    <div id="container">
+      <p class="para1">This is paragraph one</p>
+      <p class="para2">This is paragraph two</p>
+    </div>
+
     <ul id="list">
       <li>Home</li>
       <li>About</li>
     </ul>
+
+    <div class="remove-div">Remove this div</div>
+
+    <div class="parent">
+      <h3 class="child1">Headin3</h3>
+      <h4 class="child2">Heading2</h4>
+    </div>
+
+    <img
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxMIFijUYhe_p2_4H0UhSmn3lF4b7yk7M1DA&s"
+      alt="Image" />
+
+    <div class="aqua blue"><b>this is a div</b></div>
+
     <script src="Day_9.js"></script>
   </body>
 </html>
