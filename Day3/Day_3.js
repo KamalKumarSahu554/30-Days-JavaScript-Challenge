@@ -1,6 +1,7 @@
 // # Day3 - Control Structures
 
 // Activity 1: If-Else Statements
+// Task 1:
 let num = 5;
 if (num > 0) {
   console.log(`${num} is positive number`);
@@ -10,6 +11,7 @@ if (num > 0) {
   console.log(`It is zero`);
 }
 
+// Task 2:
 let age = 170;
 if (age >= 18 && age < 120) {
   console.log("Eligible for vote");
@@ -18,8 +20,10 @@ if (age >= 18 && age < 120) {
 } else {
   console.log(`Not eligible for vote`);
 }
+/*=================================================*/
 
 // Activity 2: Nasted If-Else Statements
+// Task 3:
 function findLargest(a, b, c) {
   let largest;
   if (a >= b) {
@@ -38,8 +42,10 @@ function findLargest(a, b, c) {
   console.log(`Largest number is ${largest}`);
 }
 findLargest(2, 4, 6);
+/*=================================================*/
 
 // Activity 3: Switch Case
+// Task 4:
 let day = 9;
 switch (day) {
   case 1:
@@ -68,6 +74,7 @@ switch (day) {
     break;
 }
 
+// Task 5:
 function assignGrade(score) {
   let grade;
   switch (true) {
@@ -93,16 +100,21 @@ function assignGrade(score) {
   console.log(`Grade ${grade} for score ${score}`);
 }
 assignGrade(189);
+/*=================================================*/
 
 // Activity 4: Conditional (Ternary) Oerator
+// Task 6:
 let n = 7;
 let res = n % 2 === 0 ? `${n} is even number` : `${n} is odd number`;
 console.log(res);
+/*=================================================*/
 
 // Activity 5: Combining Oerator
+// Task 7:
 isleapYear = (year) => {
   if ((year % 4 === 0 && year % 100 !== 0) || year % 400 === 0) {
     return `${year} is leap year`;
   } else return `${year} is not a leap year`;
 };
 console.log(isleapYear(2028));
+/*=================================================*/

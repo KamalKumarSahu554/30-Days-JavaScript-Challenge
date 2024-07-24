@@ -1,16 +1,23 @@
 // # Day1 - Variables and Data Types
 
 // Activity 1: VAriable Declaration
+// Task 1:
 var num = 7;
 console.log(num);
+
+// Task 2:
 let str = "My name is Hero";
 console.log(str);
+/*=================================================*/
 
 // Activity 2: Constant Declaration
+// Task 3:
 const bool = false;
 console.log(bool);
+/*=================================================*/
 
 // Activity 3: Data Types
+// Task 4:
 // Primitive
 let number = 3;
 console.log(typeof number); // Number
@@ -36,15 +43,20 @@ let myObj = {
   },
 };
 console.log(typeof myObj); // Object
+/*=================================================*/
 
 // Activity 4: Reassigning Variable
+// Task 5:
 let numb = 20;
 console.log(numb);
 numb = 10;
 console.log(numb);
+/*=================================================*/
 
 // Activity 5: Understanding const
+// Task 6:
 const msg = "Hey";
 console.log(msg);
 msg = "Hello";
 console.log(msg); // error
+/*=================================================*/
