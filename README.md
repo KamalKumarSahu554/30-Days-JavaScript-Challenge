@@ -33,5 +33,9 @@
 ## Day 11: Promises and Async/Await
 ![Day11](https://github.com/user-attachments/assets/2b46e92b-1c1c-412c-9b75-82a17b84389b)
 
+## Day 12: Error Handling
+![Day12](https://github.com/user-attachments/assets/ed3cdaff-2805-4148-89dd-73360bf8e44c)
+
+
 
 
