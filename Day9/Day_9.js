@@ -49,6 +49,14 @@ aquaDiv.classList.remove("blue");
 
 // Activity 5: Event Handling
 // Task 9:
+let para = document.querySelector(".para");
+document.querySelector(".btn").addEventListener("click", () => {
+  para.textContent = "This is Changed paragraph";
+});
 
 // Task 10:
+let bdColor = document.querySelector(".bdColor");
+bdColor.addEventListener("mouseover", () => {
+  bdColor.style.border = "8px solid red";
+});
 /*=================================================*/
