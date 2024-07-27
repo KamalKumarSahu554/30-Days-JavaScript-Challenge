@@ -36,6 +36,15 @@
 ## Day 12: Error Handling
 ![Day12](https://github.com/user-attachments/assets/ed3cdaff-2805-4148-89dd-73360bf8e44c)
 
+## Day 13: Modules
+![Day13](https://github.com/user-attachments/assets/d780a109-edcf-4a6b-a948-c4e72ea477ea)
+
+## Day 14: Classes
+![Day14](https://github.com/user-attachments/assets/a604eb94-6e4a-45ea-90c2-9240ac09e0a4)
+
+## Day 15: Closures   
+![Day15](https://github.com/user-attachments/assets/ac1a93b6-7701-4926-9fb9-764e938c7847)
+
 
 
 
